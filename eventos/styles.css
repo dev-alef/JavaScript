@@ -1,0 +1,96 @@
+.sekuya-regular {
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+#button1 {
+    background: rgba(173, 255, 0, 1);
+    width: 220px;
+    height: 38px;
+    border: none;
+    opacity: 1;
+    border-radius: 30.5px;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.527));  
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 34px;
+    color: black;
+
+}
+
+
+#button2 {
+    background: rgba(173, 255, 0, 1);
+    width: 220px;
+    height: 38px;
+    border: none;
+    opacity: 1;
+    border-radius: 30.5px;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.527));  
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 34px;
+    color: black;
+
+}
+
+h1 {
+    color: rgb(12, 24, 198);
+    font-size: 40px;
+    font-family: "Sekuya", system-ui;
+    font-weight: bold;
+    text-shadow: 
+    0 1px 0 #ccc,
+    0 2px 0 #c9c9c9,
+    0 3px 0 #bbb,
+    0 4px 0 #b9b9b9,
+    0 5px 0 #aaa,
+    0 6px 1px rgba(0,0,0,.1),
+    0 0 5px rgba(0,0,0,.1),
+    0 1px 3px rgba(0,0,0,.3),
+    0 3px 5px rgba(0,0,0,.2);
+}
+
+#meuParagrafo {
+
+    color: rgb(102, 13, 198);
+    font-size: 20px;
+    font-family: "Sekuya", system-ui;
+    font-weight: bold;
+    text-shadow: 
+    0 1px 0 #ccc,
+    0 2px 0 #c9c9c9,
+    0 3px 0 #bbb,
+    0 4px 0 #b9b9b9,
+    0 5px 0 #aaa,
+    0 6px 1px rgba(0,0,0,.1),
+    0 0 5px rgba(0,0,0,.1),
+    0 1px 3px rgba(0,0,0,.3),
+    0 3px 5px rgba(0,0,0,.2);
+
+    
+}
+
+#button1:hover {
+    opacity: .6;
+}
+
+#button1:active {
+    opacity: .4;
+
+}
+
+#button2:hover {
+    opacity: .6;
+}
+
+#button2:active {
+    opacity: .4;
+
+}
